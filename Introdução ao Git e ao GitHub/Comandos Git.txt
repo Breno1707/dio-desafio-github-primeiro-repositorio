@@ -1,0 +1,16 @@
+Clonar um repositório:
+git clone https://github.com/Breno1707/dio-desafio-github-primeiro-repositorio.git
+
+Verificar status do repositório:
+git status
+
+Adicionar arquivos:
+git add .
+
+Fazer o commit:
+git commit -m "Inclusão das anotações do curso de Git/GitHub"
+
+Atualizar repositorio remoto:
+git push origin main
+
+
